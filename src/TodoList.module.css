@@ -1,0 +1,12 @@
+.wrapper {
+    display: inline-block;
+    margin: 10px 20px;
+    border: rgba(129, 129, 129, 0.68) 1px solid;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.title {
+    margin: 0 0 10px 0;
+    text-align: center;
+}
